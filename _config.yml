@@ -1,11 +1,12 @@
 theme: minima
 
 title: Vicenzu(株)
-# author:
+author: Vicenzu
 
-# description: 
+description: ゲームやWebクリエイトサービスを提供しています。架空の会社です。
 
-# header_pages:
+header_pages:
+  - game.md
 
 plugins:
   - jekyll-feed
