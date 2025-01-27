@@ -12,5 +12,9 @@ Project Cityは、マルチプレイヤー レース ゲーム！
 詳しくは[こちら](https://vicenzun.github.io/Vicenzu/game )
 
 # Webクリエイトサービス
+月5000円から受け付けています。プラン等は[こちら](https://vicenzun.github.io/Vicenzu/web )
 
 # 株主優待
+`1500¥`/1株より
+
+優待内容等は[こちら](https://vicenzun.github.io/Vicenzu/kabu )
