@@ -7,6 +7,8 @@ description: ゲームやWebクリエイトサービスを提供しています�
 
 header_pages:
   - game.md
+  - web.md
+  - kabu.md
 
 plugins:
   - jekyll-feed
